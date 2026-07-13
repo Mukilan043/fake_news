@@ -10,7 +10,7 @@ model_weights/
 .DS_Store
 .idea/
 .vscode/
-*.json
+#*.json
 
 # Local debug and test files
 ml-service/debug_*.py
@@ -23,4 +23,4 @@ ml-service/cache/
 
 # Local build tools
 maven/
-
+
