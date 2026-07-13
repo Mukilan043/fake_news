@@ -11,6 +11,7 @@ model_weights/
 .idea/
 .vscode/
 *.json
+!frontend/package.json
 
 # Local debug and test files
 ml-service/debug_*.py
